@@ -1,0 +1,5 @@
+numpy
+pillow
+matplotlib
+open3d
+git+https://github.com/climbingdaily/pypcd #pypcd
